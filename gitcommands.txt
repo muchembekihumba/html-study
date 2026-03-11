@@ -1,0 +1,3 @@
+git - checks if git is installed. See git help -a
+git init - makes the folder to start using git done only once
+git add . - adds all files in the folder to be tracked by git
