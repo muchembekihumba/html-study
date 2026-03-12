@@ -1,3 +1,8 @@
 git - checks if git is installed. See git help -a
 git init - makes the folder to start using git done only once
 git add . - adds all files in the folder to be tracked by git
+git commit -m "first commit" - adds a message to your changes
+git config --global user.email "muchembekihumba@gmail.com" done once
+git config --global user.name "muchembekihumba" done once
+git remote add origin https://github.com/muchembekihumba/html-study.git - this connects the folder in my computer in my git repo done once
+git push origin master - pushes code from comp to github repo
